@@ -1,0 +1,5 @@
+C:\Users\Dmitryi\Desktop\BuddyMemoryAllocation\BuddyMemoryAllocation.Storage\obj\Debug\BuddyMemoryAllocation.Storage.csprojResolveAssemblyReference.cache
+C:\Users\Dmitryi\Desktop\BuddyMemoryAllocation\BuddyMemoryAllocation.Storage\bin\Debug\BuddyMemoryAllocation.Storage.dll
+C:\Users\Dmitryi\Desktop\BuddyMemoryAllocation\BuddyMemoryAllocation.Storage\bin\Debug\BuddyMemoryAllocation.Storage.pdb
+C:\Users\Dmitryi\Desktop\BuddyMemoryAllocation\BuddyMemoryAllocation.Storage\obj\Debug\BuddyMemoryAllocation.Storage.dll
+C:\Users\Dmitryi\Desktop\BuddyMemoryAllocation\BuddyMemoryAllocation.Storage\obj\Debug\BuddyMemoryAllocation.Storage.pdb

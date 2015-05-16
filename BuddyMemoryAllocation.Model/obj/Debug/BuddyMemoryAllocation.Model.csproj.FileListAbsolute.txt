@@ -1,0 +1,5 @@
+C:\Users\Dmitryi\Desktop\BuddyMemoryAllocation\BuddyMemoryAllocation.Model\bin\Debug\BuddyMemoryAllocation.Model.dll
+C:\Users\Dmitryi\Desktop\BuddyMemoryAllocation\BuddyMemoryAllocation.Model\bin\Debug\BuddyMemoryAllocation.Model.pdb
+C:\Users\Dmitryi\Desktop\BuddyMemoryAllocation\BuddyMemoryAllocation.Model\obj\Debug\BuddyMemoryAllocation.Model.csprojResolveAssemblyReference.cache
+C:\Users\Dmitryi\Desktop\BuddyMemoryAllocation\BuddyMemoryAllocation.Model\obj\Debug\BuddyMemoryAllocation.Model.dll
+C:\Users\Dmitryi\Desktop\BuddyMemoryAllocation\BuddyMemoryAllocation.Model\obj\Debug\BuddyMemoryAllocation.Model.pdb
